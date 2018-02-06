@@ -33,5 +33,6 @@ Supported Python versions are: ``3.5`` and ``3.6``.
 Why?
 ----
 
-TODO
+Official Serving package (https://pypi.python.org/pypi/tensorflow-serving-api) is marked as Python2-only although it **supports** Python3 (therefore you cannot `pip3 install tensorflow-serving-api`). This has been discussed in this thread: https://github.com/tensorflow/serving/issues/700 (unfortunately, the proposal for publishing the Python3 package was rejected).
 
+This package **is only redistribution**: I only downloaded Python2 ``.whl`` from PyPI, extracted it and added my ``setup.py`` with Python3 support.
