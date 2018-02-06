@@ -1,0 +1,19 @@
+language: python
+sudo: false
+python:
+  - "3.5"
+  - "3.5-dev" # 3.5 development branch
+  - "3.6"
+  - "3.6-dev" # 3.6 development branch
+  - "3.7-dev" # 3.7 development branch
+  - "nightly" # currently points to 3.7-dev
+env:
+  - PYTHONUNBUFFERED="1"
+install:
+    - pip install --isolated --no-input --compile --exists-action=a --disable-pip-version-check --use-wheel --no-cache-dir -r ./requirements/dev.txt
+    - pip install --isolated --no-input --compile --exists-action=a --disable-pip-version-check --use-wheel --no-cache-dir --upgrade setuptools wheel
+script:
+    - inv test
+    - inv build
+notifications:
+    email: false
