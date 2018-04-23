@@ -7,7 +7,7 @@ from setuptools import setup
 
 setup(
     name='tensorflow-serving-api-python3',
-    version='1.4.0',
+    version='1.5.0',
     description="""*UNOFFICIAL* TensorFlow Serving API libraries for Python3""",
     long_description=io.open("README.rst", 'r', encoding="utf-8").read(),
     url='https://github.com/illagrenan/tensorflow-serving-api-python3',
@@ -18,7 +18,7 @@ setup(
     packages=['tensorflow_serving'],
     install_requires=[
         'grpcio>=1.7.0',
-        'tensorflow>=1.4.0'
+        'tensorflow>=1.5.0'
     ],
     python_requires='~=3.5',
     include_package_data=True,
