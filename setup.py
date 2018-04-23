@@ -13,7 +13,6 @@ setup(
     url='https://github.com/illagrenan/tensorflow-serving-api-python3',
     license='Apache 2.0',
     keywords="TensorFlow Serving API libraries",
-    author='Vize',
     author_email='tensorflow-serving-dev@googlegroups.com',
     packages=['tensorflow_serving'],
     install_requires=[
