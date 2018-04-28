@@ -36,13 +36,13 @@ Supported versions of Tensorflow
 +-----------------------+--------------------------------------------------------+----------------------------------------------------------------------------------------+
 | Tensorflow version    | Serving API version                                    | Link to original serving package                                                       |
 +-----------------------+--------------------------------------------------------+----------------------------------------------------------------------------------------+
-| ``tensorflow~=1.4.0`` | ``pip install 'tensorflow-seving-api-python3~=1.4.0'`` | `https://pypi.org/.../1.4.0 <https://pypi.org/project/tensorflow-serving-api/1.4.0/>`_ |
+| ``tensorflow~=1.4.0`` | ``pip install 'tensorflow-serving-api-python3~=1.4.0'`` | `https://pypi.org/.../1.4.0 <https://pypi.org/project/tensorflow-serving-api/1.4.0/>`_ |
 +-----------------------+--------------------------------------------------------+----------------------------------------------------------------------------------------+
-| ``tensorflow~=1.5.0`` | ``pip install 'tensorflow-seving-api-python3~=1.5.0'`` | `https://pypi.org/.../1.5.0 <https://pypi.org/project/tensorflow-serving-api/1.5.0/>`_ |
+| ``tensorflow~=1.5.0`` | ``pip install 'tensorflow-serving-api-python3~=1.5.0'`` | `https://pypi.org/.../1.5.0 <https://pypi.org/project/tensorflow-serving-api/1.5.0/>`_ |
 +-----------------------+--------------------------------------------------------+----------------------------------------------------------------------------------------+
-| ``tensorflow~=1.6.0`` | ``pip install 'tensorflow-seving-api-python3~=1.6.0'`` | `https://pypi.org/.../1.6.0 <https://pypi.org/project/tensorflow-serving-api/1.6.0/>`_ |
+| ``tensorflow~=1.6.0`` | ``pip install 'tensorflow-serving-api-python3~=1.6.0'`` | `https://pypi.org/.../1.6.0 <https://pypi.org/project/tensorflow-serving-api/1.6.0/>`_ |
 +-----------------------+--------------------------------------------------------+----------------------------------------------------------------------------------------+
-| ``tensorflow~=1.7.0`` | ``pip install 'tensorflow-seving-api-python3~=1.7.0'`` | `https://pypi.org/.../1.7.0 <https://pypi.org/project/tensorflow-serving-api/1.7.0/>`_ |
+| ``tensorflow~=1.7.0`` | ``pip install 'tensorflow-serving-api-python3~=1.7.0'`` | `https://pypi.org/.../1.7.0 <https://pypi.org/project/tensorflow-serving-api/1.7.0/>`_ |
 +-----------------------+--------------------------------------------------------+----------------------------------------------------------------------------------------+
 
 
