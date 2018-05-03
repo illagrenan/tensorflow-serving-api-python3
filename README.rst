@@ -2,23 +2,23 @@
 *UNOFFICIAL* TensorFlow Serving API libraries for Python3
 =========================================================
 
-+----------------+-----------------------------------------------------------------------------------------------------------------+
++----------------+-----------------------------------------------------------------------------------------------------------------------------------+
 | Latest release | .. image:: https://img.shields.io/pypi/v/tensorflow-serving-api-python3.svg?style=flat-square                                     |
-|                |    :target: https://pypi.python.org/pypi/tensorflow-serving-api-python3                                         |
-|                |    :alt: PyPi                                                                                                   |
-|                |                                                                                                                 |
+|                |    :target: https://pypi.python.org/pypi/tensorflow-serving-api-python3                                                           |
+|                |    :alt: PyPi                                                                                                                     |
+|                |                                                                                                                                   |
 |                | .. image:: https://img.shields.io/pypi/implementation/tensorflow-serving-api-python3.svg?style=flat-square                        |
-|                |    :target: https://pypi.python.org/pypi/tensorflow-serving-api-python3/                                        |
-|                |    :alt: Supported Python implementations                                                                       |
-|                |                                                                                                                 |
+|                |    :target: https://pypi.python.org/pypi/tensorflow-serving-api-python3/                                                          |
+|                |    :alt: Supported Python implementations                                                                                         |
+|                |                                                                                                                                   |
 |                | .. image:: https://img.shields.io/pypi/pyversions/tensorflow-serving-api-python3.svg?style=flat-square                            |
-|                |    :target: https://pypi.python.org/pypi/tensorflow-serving-api-python3/                                        |
-|                |    :alt: Supported Python versions                                                                              |
-+----------------+-----------------------------------------------------------------------------------------------------------------+
-| CI             | .. image:: https://img.shields.io/travis/illagrenan/tensorflow-serving-api-python3.svg?logo=travis&style=flat-square                          |
-|                |    :target: https://travis-ci.org/illagrenan/tensorflow-serving-api-python3                                     |
-|                |    :alt: TravisCI                                                                                               |
-+----------------+-----------------------------------------------------------------------------------------------------------------+
+|                |    :target: https://pypi.python.org/pypi/tensorflow-serving-api-python3/                                                          |
+|                |    :alt: Supported Python versions                                                                                                |
++----------------+-----------------------------------------------------------------------------------------------------------------------------------+
+| CI             | .. image:: https://img.shields.io/travis/illagrenan/tensorflow-serving-api-python3.svg?logo=travis&style=flat-square              |
+|                |    :target: https://travis-ci.org/illagrenan/tensorflow-serving-api-python3                                                       |
+|                |    :alt: TravisCI                                                                                                                 |
++----------------+-----------------------------------------------------------------------------------------------------------------------------------+
 
 Installation
 ------------
