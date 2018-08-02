@@ -1,6 +1,16 @@
+------------
+
+🚧🚨 **THIS PACKAGE HAS BEEN DEPRECATED** 🚨🚧
+
+``tensorflow-seving-api==1.9.0`` (https://pypi.org/project/tensorflow-serving-api/1.9.0/#files) is now correctly distributed with Python3 classifiers on PyPI. **Use official package** for ``tensorflow>=1.9.0`` and this package for ``tensorflow>=1.4.0,<=1.8.0``.
+
+------------
+
 =========================================================
 *UNOFFICIAL* TensorFlow Serving API libraries for Python3
 =========================================================
+
+
 
 +----------------+-----------------------------------------------------------------------------------------------------------------------------------+
 | Latest release | .. image:: https://img.shields.io/pypi/v/tensorflow-serving-api-python3.svg?style=flat-square                                     |
