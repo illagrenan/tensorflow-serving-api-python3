@@ -8,9 +8,8 @@ python:
 env:
   - PYTHONUNBUFFERED="1"
 install:
-    - pip install --isolated --no-input --compile --exists-action=a --disable-pip-version-check --no-cache-dir --upgrade setuptools wheel
+    - pip install --isolated --no-input --compile --exists-action=a --disable-pip-version-check --no-cache-dir --upgrade pip setuptools wheel
     - pip install --isolated --no-input --compile --exists-action=a --disable-pip-version-check --no-cache-dir -r ./requirements/dev.txt
-    - pip install --isolated --no-input --compile --exists-action=a --disable-pip-version-check --no-cache-dir --upgrade setuptools wheel
 script:
     - inv clean
     - inv check
