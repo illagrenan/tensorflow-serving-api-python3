@@ -4,6 +4,8 @@
 
 ``tensorflow-seving-api==1.9.0`` (https://pypi.org/project/tensorflow-serving-api/1.9.0/#files) is now correctly distributed with Python3 classifiers on PyPI. **Use official package** for ``tensorflow>=1.9.0`` and this package for ``tensorflow>=1.4.0,<=1.8.0``.
 
+More useful info can be found here: https://github.com/illagrenan/tensorflow-serving-api-python3/issues/6
+
 ------------
 
 =========================================================
